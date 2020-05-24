@@ -1,0 +1,11 @@
+.aggtable {
+    -moz-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+    background-color: #262626;
+}
+
+.highlight {
+    background-color: #3e3e3e;
+}
